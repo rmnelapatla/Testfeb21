@@ -25,3 +25,9 @@ Feature:  Test all regression test cases
       |Java   |
       Then User validate the result
 
+
+    Scenario:  This is to test Github
+      Given  user login to git
+      When  login useable to see the project repositeries
+      Then user select any repositeries
+
