@@ -30,4 +30,5 @@ Feature:  Test all regression test cases
       Given  user login to git
       When  login useable to see the project repositeries
       Then user select any repositeries
+      Given  this new line of login with the git
 
