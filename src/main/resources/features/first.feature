@@ -32,3 +32,6 @@ Feature:  Test all regression test cases
       Then user select any repositeries
       Given  this new line of login with the git
 
+
+    Scenatio: Test this is new add data
+
